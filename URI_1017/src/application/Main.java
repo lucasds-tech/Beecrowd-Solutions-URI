@@ -1,5 +1,4 @@
-/*
-Joaozinho quer calcular e mostrar a quantidade de litros de combustível 
+/* Joaozinho quer calcular e mostrar a quantidade de litros de combustível 
 gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, 
 ele gostaria que você o auxiliasse através de um simples programa. Para 
 efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e 
